@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tours-With-Me/static/css/main.975800f5.css",
+    "main.js": "/Tours-With-Me/static/js/main.a5260a56.js",
+    "static/js/787.88dfdeb5.chunk.js": "/Tours-With-Me/static/js/787.88dfdeb5.chunk.js",
+    "index.html": "/Tours-With-Me/index.html",
+    "main.975800f5.css.map": "/Tours-With-Me/static/css/main.975800f5.css.map",
+    "main.a5260a56.js.map": "/Tours-With-Me/static/js/main.a5260a56.js.map",
+    "787.88dfdeb5.chunk.js.map": "/Tours-With-Me/static/js/787.88dfdeb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.975800f5.css",
+    "static/js/main.a5260a56.js"
+  ]
+}
